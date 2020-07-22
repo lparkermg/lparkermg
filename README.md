@@ -10,8 +10,9 @@ What am I doing:
 What am I learning about:
 
 - Security 🔒
-- Containserisation 📦
+- Containerisation 📦
 - Game Design 🕹🖊
+- Rust 📄
 
 Future Projects:
 

@@ -5,7 +5,7 @@ I'm Luke, Software Developer and Game Developer, my pronouns are he/him.
 Currently my public repos mainly the prototypes I've done for [Ludum Dare](https://ldjam.com) over the years, along with a few from my own projects.
 
 What am I doing:
-- Working on a selection of shortform games intended to be about 3-10 hours long, which I may start live streaming the development of.
+- Working on a selection of shortform games intended to be about 1-5 hours long, which I may start live streaming the development of.
 
 What am I learning about:
 

@@ -9,8 +9,8 @@ What am I doing:
 
 What am I learning about:
 
-- Security 🔒
 - Containerisation 📦
+- Cloud Services ☁️
 - Game Design 🕹🖊
 - Rust 📄
 

@@ -13,6 +13,7 @@ What am I learning about:
 - Containerisation 📦
 - Cloud Services ☁️
 - Game Design 🕹🖊
+- Rust
 - React
 
 Future Projects:

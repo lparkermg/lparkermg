@@ -5,13 +5,11 @@ I'm Luke, Software Developer and Game Developer, my pronouns are he/him.
 Currently my public repos mainly the prototypes I've done for [Ludum Dare](https://ldjam.com) over the years, along with a few from my own projects.
 
 What am I doing:
-- Working on a some game projects
-- Building a small and simple high-score api service.
+- Working on a some small coding projects
 
 What am I learning about:
 
 - Cloud Services ☁️
-- Game Design 🕹🖊
 - Go
 
 Future Projects:

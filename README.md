@@ -14,9 +14,9 @@ What am I learning about:
 
 Future Projects:
 
+- Some small real world systems to learn new tech.
 - A match making system.
 - A scoring system.
-- More games!
 
 Where can you find me:
 
